@@ -9,4 +9,4 @@ Flask_Restful
 Flask_Cors
 PyJWT
 python-dotenv
-boto3
+boto
